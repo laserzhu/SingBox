@@ -2324,30 +2324,6 @@
     ],
     "rule_set": [
       {
-        "tag": "极致要求",
-        "type": "remote",
-        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/ultra.json",
-        "format": "source"
-      },
-      {
-        "tag": "禁止中国",
-        "type": "remote",
-        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/xchina.json",
-        "format": "source"
-      },
-      {
-        "tag": "自动选择",
-        "type": "remote",
-        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/auto.json",
-        "format": "source"
-      },
-      {
-        "tag": "全球直连",
-        "type": "remote",
-        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/direct.json",
-        "format": "source"
-      },
-      {
         "tag": "Category-Ads",
         "type": "remote",
         "url": "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@sing/geo/geosite/category-ads-all.srs",
