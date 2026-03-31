@@ -2326,25 +2326,25 @@
       {
         "tag": "极致要求",
         "type": "remote",
-        "source": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/ultra.json",
+        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/ultra.json",
         "format": "source"
       },
       {
         "tag": "禁止中国",
         "type": "remote",
-        "source": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/xchina.json",
+        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/xchina.json",
         "format": "source"
       },
       {
         "tag": "自动选择",
         "type": "remote",
-        "source": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/auto.json",
+        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/auto.json",
         "format": "source"
       },
       {
         "tag": "全球直连",
         "type": "remote",
-        "source": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/direct.json",
+        "url": "https://raw.githubusercontent.com/laserzhu/SingBox/refs/heads/main/direct.json",
         "format": "source"
       },
       {
