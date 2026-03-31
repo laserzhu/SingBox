@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "rules": [
+ {
+      "process_name": "happ.exe"
+    },
+    {
+      "domain_keyword": [
+        "cdn77.org",
+        "highwebmedia",
+        "sb-cd.com",
+        "privatehost",
+        "doppiocdn",
+        "icloud",
+        "microsoft",
+        "bing",
+        "msn",
+        "onenote",
+        "windows",
+        "office",
+        "live.com",
+        "msedge",
+        "logi",
+        "10jqka",
+        "hexin.cn",
+        "alicdn",
+        "taobao.com",
+        "alibaba.com",
+        "live.net"
+      ]
+    }
+  ]
+}

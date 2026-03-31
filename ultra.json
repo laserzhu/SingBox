@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+ {
+      "process_name": "claude.exe"
+    },
+    {
+      "domain_keyword": [
+        "notebooklm.google.com",
+        "claude",
+        "anthropic",
+        "datadoghq",
+        "intercom.io",
+        "cloudflare.com"
+      ]
+    }
+  ]
+}
